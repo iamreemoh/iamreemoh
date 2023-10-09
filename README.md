@@ -1,4 +1,4 @@
-- Heya, My name is Reemoh. I am an Aerospace Engineer with a medium-rare experience in programming.
+- Heya, my name is Geeta Reemoh. I am an Aerospace Engineer with a wealth of experience in programming languages like C++, Python, and Matlab.
 - I have a master-level grasp on scientific Gas Dynamics💨, and worked on a project on the development of a missile for India's defence organisation🛡️.
 
 <!---
